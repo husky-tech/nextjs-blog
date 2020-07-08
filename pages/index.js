@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
                 <title>{siteTitle}</title>
             </Head>
             <section className={utilStyles.headingMd}>
-                <p>[Your Self Introduction]</p>
+                <p>Hi. This is koki. I'm 28 years old. Please call me as a Koki. I have been in osaka since I was born. If you go to Osaka, let me know.</p>
                 <p>
                     (This is a sample website - you'll be building a site like this on{' '}
 
